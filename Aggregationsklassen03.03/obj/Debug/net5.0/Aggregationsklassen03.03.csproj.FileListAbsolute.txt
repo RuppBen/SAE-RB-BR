@@ -1,0 +1,16 @@
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/Aggregationsklassen03.03/bin/Debug/net5.0/Aggregationsklassen03.03
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/Aggregationsklassen03.03/bin/Debug/net5.0/Aggregationsklassen03.03.deps.json
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/Aggregationsklassen03.03/bin/Debug/net5.0/Aggregationsklassen03.03.runtimeconfig.json
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/Aggregationsklassen03.03/bin/Debug/net5.0/Aggregationsklassen03.03.runtimeconfig.dev.json
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/Aggregationsklassen03.03/bin/Debug/net5.0/Aggregationsklassen03.03.dll
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/Aggregationsklassen03.03/bin/Debug/net5.0/ref/Aggregationsklassen03.03.dll
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/Aggregationsklassen03.03/bin/Debug/net5.0/Aggregationsklassen03.03.pdb
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/Aggregationsklassen03.03/obj/Debug/net5.0/Aggregationsklassen03.03.csprojAssemblyReference.cache
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/Aggregationsklassen03.03/obj/Debug/net5.0/Aggregationsklassen03.03.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/Aggregationsklassen03.03/obj/Debug/net5.0/Aggregationsklassen03.03.AssemblyInfoInputs.cache
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/Aggregationsklassen03.03/obj/Debug/net5.0/Aggregationsklassen03.03.AssemblyInfo.cs
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/Aggregationsklassen03.03/obj/Debug/net5.0/Aggregationsklassen03.03.csproj.CoreCompileInputs.cache
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/Aggregationsklassen03.03/obj/Debug/net5.0/Aggregationsklassen03.03.dll
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/Aggregationsklassen03.03/obj/Debug/net5.0/ref/Aggregationsklassen03.03.dll
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/Aggregationsklassen03.03/obj/Debug/net5.0/Aggregationsklassen03.03.pdb
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/Aggregationsklassen03.03/obj/Debug/net5.0/Aggregationsklassen03.03.genruntimeconfig.cache
