@@ -16,5 +16,8 @@ class Fahrer
         fahrerid++;
     }
 
-    //ToStrig methode needet
+    public override string ToString()
+    {
+        return ("Vorname: "+Vorname+" Name: "+ Name+" FahrerID: "+FahrerID);
+    }
 }
