@@ -1,0 +1,16 @@
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/Vererbung-AbstrakteKlassen14.04/obj/Debug/net5.0/Vererbung-AbstrakteKlassen14.04.csprojAssemblyReference.cache
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/Vererbung-AbstrakteKlassen14.04/obj/Debug/net5.0/Vererbung-AbstrakteKlassen14.04.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/Vererbung-AbstrakteKlassen14.04/obj/Debug/net5.0/Vererbung-AbstrakteKlassen14.04.AssemblyInfoInputs.cache
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/Vererbung-AbstrakteKlassen14.04/obj/Debug/net5.0/Vererbung-AbstrakteKlassen14.04.AssemblyInfo.cs
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/Vererbung-AbstrakteKlassen14.04/obj/Debug/net5.0/Vererbung-AbstrakteKlassen14.04.csproj.CoreCompileInputs.cache
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/Vererbung-AbstrakteKlassen14.04/bin/Debug/net5.0/Vererbung-AbstrakteKlassen14.04
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/Vererbung-AbstrakteKlassen14.04/bin/Debug/net5.0/Vererbung-AbstrakteKlassen14.04.deps.json
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/Vererbung-AbstrakteKlassen14.04/bin/Debug/net5.0/Vererbung-AbstrakteKlassen14.04.runtimeconfig.json
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/Vererbung-AbstrakteKlassen14.04/bin/Debug/net5.0/Vererbung-AbstrakteKlassen14.04.runtimeconfig.dev.json
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/Vererbung-AbstrakteKlassen14.04/bin/Debug/net5.0/Vererbung-AbstrakteKlassen14.04.dll
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/Vererbung-AbstrakteKlassen14.04/bin/Debug/net5.0/ref/Vererbung-AbstrakteKlassen14.04.dll
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/Vererbung-AbstrakteKlassen14.04/bin/Debug/net5.0/Vererbung-AbstrakteKlassen14.04.pdb
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/Vererbung-AbstrakteKlassen14.04/obj/Debug/net5.0/Vererbung-AbstrakteKlassen14.04.dll
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/Vererbung-AbstrakteKlassen14.04/obj/Debug/net5.0/ref/Vererbung-AbstrakteKlassen14.04.dll
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/Vererbung-AbstrakteKlassen14.04/obj/Debug/net5.0/Vererbung-AbstrakteKlassen14.04.pdb
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/Vererbung-AbstrakteKlassen14.04/obj/Debug/net5.0/Vererbung-AbstrakteKlassen14.04.genruntimeconfig.cache
