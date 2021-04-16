@@ -19,12 +19,12 @@ namespace Vererbung_AbstrakteKlassen14._04
             return ("Ich heiße "+Name+" und bin ein Elefant");
         }
     }
-    class Leopart : Säugetier
+    class Leopard : Säugetier
     {
-        public Leopart(string name, string[] futter) : base (name, futter)
+        public Leopard(string name, string[] futter) : base (name, futter)
         {
         }
-        public Leopart() {}
+        public Leopard() {}
         public override string Verhalten_bei_Gefahr()
         {
             return ("brrrrrrrrrrrr scrraaaa brbr");

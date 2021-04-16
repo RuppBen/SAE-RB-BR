@@ -18,7 +18,7 @@ namespace Vererbung_AbstrakteKlassen14._04
         public string PrintListLeopart(List<Säugetier> säugetierliste)
         {
             output = "Leoparten:\n";
-            foreach (Leopart item in säugetierliste)
+            foreach (Leopard item in säugetierliste)
             {
                 output += item+"\n";
             }
