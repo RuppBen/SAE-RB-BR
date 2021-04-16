@@ -8,19 +8,19 @@ namespace Vererbung_AbstrakteKlassen14._04
         static void Main(string[] args)
         {
             List<Säugetier> säugetier1 = new List<Säugetier>(); //Elefant Liste
-            List<Säugetier> säugetier2 = new List<Säugetier>(); //Leopart Liste // Use of single list not functioning jet
+            List<Säugetier> säugetier2 = new List<Säugetier>(); //Leopard Liste // Use of single list not functioning jet
             Basicfunktiosn basicfunktiosn = new Basicfunktiosn();   //Basic Funktions fot switch case
             Elefant elefant;
-            Leopart leopart;
+            Leopard leopard;
             string eingabe;
             bool loobctl = true;
             //int indicator =0;
             string[] leopartFutter = new string[] {"Käfer","kleine Affen","Nagetiere","Fische","Antilopen","Impala"};
             string[] elefantFutter = new string[] {"Gras", "Ästen", "allerlei Baumrinde", "Blätter", "Früchte", "Wurzeln"};
-            
+        
             //Default Animals
             säugetier1.Add(elefant = new Elefant("Benjamin", elefantFutter));
-            säugetier2.Add(leopart = new Leopart("Leo", leopartFutter));
+            säugetier2.Add(leopard = new Leopard("Leo", leopartFutter));
 
             /*
             //test List Data
@@ -89,7 +89,7 @@ namespace Vererbung_AbstrakteKlassen14._04
                 case "add leopart":
                     System.Console.Write("Name: ");
                     eingabe = Console.ReadLine();
-                    säugetier2.Add(leopart = new Leopart(eingabe, leopartFutter));
+                    säugetier2.Add(leopard = new Leopard(eingabe, leopartFutter));
                     eingabe = null;
                     break;
                 case "q":
