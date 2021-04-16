@@ -8,7 +8,7 @@ namespace Vererbung_AbstrakteKlassen14._04
         static void Main(string[] args)
         {
             List<Säugetier> säugetier1 = new List<Säugetier>(); //Elefant Liste
-            List<Säugetier> säugetier2 = new List<Säugetier>(); //Leopart Liste 
+            //List<Säugetier> säugetier2 = new List<Säugetier>(); //Leopart Liste 
             // Separate Liste Funktioniert nicht 
             Elefant elefant;
             Leopart leopart;
@@ -16,8 +16,9 @@ namespace Vererbung_AbstrakteKlassen14._04
             string[] elefantFutter = new string[] {"Gras", "Ästen", "allerlei Baumrinde", "Blättern", "Früchten", "Wurzeln"};
 
             säugetier1.Add(elefant = new Elefant());
-            säugetier2.Add(leopart = new Leopart());
+            säugetier1.Add(leopart = new Leopart());
 
+            
             foreach ( Elefant item in säugetier1)
             {
                 System.Console.WriteLine(item);
@@ -25,7 +26,7 @@ namespace Vererbung_AbstrakteKlassen14._04
 
             System.Console.WriteLine();
             
-            foreach ( Leopart item in säugetier2)
+            foreach ( Leopart item in säugetier1)
             {
                 System.Console.WriteLine(item);
             }
