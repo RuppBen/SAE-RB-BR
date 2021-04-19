@@ -15,19 +15,10 @@ namespace Vererbung_AbstrakteKlassen14._04
             }
             return output;
         }
-        public string PrintListLeopart(List<Säugetier> säugetierliste)
+        public string PrintList(List<Säugetier> säugetierliste)
         {
-            output = "Leoparten:\n";
-            foreach (Leopard item in säugetierliste)
-            {
-                output += item+"\n";
-            }
-            return output;
-        }
-        public string PrintListElefant(List<Säugetier> säugetierliste)
-        {
-            output = "Elefanten:\n";
-            foreach (Elefant item in säugetierliste)
+            output = "\n";
+            foreach (Säugetier item in säugetierliste)
             {
                 output += item+"\n";
             }
