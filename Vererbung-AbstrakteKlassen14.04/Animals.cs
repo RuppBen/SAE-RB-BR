@@ -11,12 +11,12 @@ namespace Vererbung_AbstrakteKlassen14._04
         public Elefant() {}
         public override string Verhalten_bei_Gefahr()
         {
-            return "Goes Tooooröööööööööööööööööööööööö";
+            return "Verhalten bei Gefahr:\nGoes Tooooröööööööööööööööööööööööö";
         }
 
         public override string ToString()
         {
-            return ("Ich heiße "+Name+" und bin ein Elefant");
+            return base.ToString() + "Elefant";
         }
     }
     class Leopard : Säugetier
@@ -27,12 +27,12 @@ namespace Vererbung_AbstrakteKlassen14._04
         public Leopard() {}
         public override string Verhalten_bei_Gefahr()
         {
-            return ("brrrrrrrrrrrr scrraaaa brbr");
+            return ("Verhalten bei Gefahr:\nbrrrrrrrrrrrr scrraaaa brbr");
         }
 
         public override string ToString()
         {
-            return ("Ich heiße "+Name+" und bin ein Leopart");
+            return base.ToString() + "Leopard";
         }
     }
 }

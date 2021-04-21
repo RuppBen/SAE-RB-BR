@@ -19,7 +19,7 @@ namespace Vererbung_AbstrakteKlassen14._04
 
         public override string ToString()
         {
-            return Name;
+            return ("Ich Heiße "+Name+" und bin ein ");
         }
     }
 }

@@ -20,9 +20,25 @@ namespace Vererbung_AbstrakteKlassen14._04
             output = "\n";
             foreach (Säugetier item in säugetierliste)
             {
-                output += item+"\n";
+                output += item+"\n"+item.Verhalten_bei_Gefahr()+"\n\n";
             }
             return output;
+        }
+        public List<Säugetier> AddAnimal(List<Säugetier> säugetierliste, string name, string[] futter, string animal)
+        {
+            if (animal == "elefant")
+            {
+                säugetierliste.Add(new Elefant(name, futter));
+            }
+            else if(animal == "leopard")
+            {
+                säugetierliste.Add(new Leopard(name, futter));
+            }
+            else
+            {
+                System.Console.WriteLine("Error in Code");
+            }
+            return säugetierliste;
         }
     }
 }
