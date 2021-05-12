@@ -10,6 +10,9 @@ namespace String_Class_PW
 
             System.Console.Write("Password: ");
             eingabe = Console.ReadLine();
+            System.Console.WriteLine(PwAnalyse.GenPW(eingabe));
+
+            /*
             if (PwAnalyse.CheckPwSecurity(eingabe))
             {
                 System.Console.WriteLine("succes");
@@ -18,6 +21,7 @@ namespace String_Class_PW
             {
                 System.Console.WriteLine("ur pw sucks");
             }
+            */
         }
     }
 }
