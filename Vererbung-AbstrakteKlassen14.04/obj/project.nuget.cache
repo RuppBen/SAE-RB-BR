@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BTaELDbtPntiv6x10gsa4imPj7L7D85HCkTBllMD69vCw5naJpvHBZ978iuha8xMI43nzD0s71RO191VGlLFpA==",
+  "success": true,
+  "projectFilePath": "/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/Vererbung-AbstrakteKlassen14.04/Vererbung-AbstrakteKlassen14.04.csproj",
+  "expectedPackageFiles": [
+    "/home/beni/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
