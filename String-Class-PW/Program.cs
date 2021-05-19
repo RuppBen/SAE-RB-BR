@@ -10,7 +10,7 @@ namespace String_Class_PW
 
             System.Console.Write("Password: ");
             eingabe = Console.ReadLine();
-            System.Console.WriteLine(PwAnalyse.GenPW(eingabe));
+            System.Console.WriteLine(PwAnalyse.GenPWE(eingabe));
 
             /*
             if (PwAnalyse.CheckPwSecurity(eingabe))

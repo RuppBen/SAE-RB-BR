@@ -31,7 +31,7 @@ namespace String_Class_PW
 
             return (pwdlenght && wnum && wlet );
         }
-        public static string GenPW(string satz)
+        public static string GenPW(string satz) //my Verion
         {
             string result = null;
             string[] words = satz.Split(' ');
@@ -48,6 +48,16 @@ namespace String_Class_PW
                 result += word;
             }
             return (result+ Convert.ToString(result.Length));
+        }
+        public static string GenPWE(string satz)    //efficent version
+        {
+            string pwd = null;
+            string[] words = satz.Split(new char[] { ' '} );
+            foreach (string word in words)
+            {
+                pwd += word[0];
+            }
+            return pwd + Convert.ToString(pwd.Length);
         }
     }
 }
