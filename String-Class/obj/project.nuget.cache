@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KPOJ0F7MG+Qd4iGE330gWa7RuNylEEKsZ8FZVwB8l+TgJQFUlVPel8Cx2uCs0+yzuo73vTWoFiS0BU13q6ssOQ==",
+  "success": true,
+  "projectFilePath": "/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/String-Class/String-Class.csproj",
+  "expectedPackageFiles": [
+    "/home/beni/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

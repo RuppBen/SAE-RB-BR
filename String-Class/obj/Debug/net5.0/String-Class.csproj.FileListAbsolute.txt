@@ -1,0 +1,16 @@
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/String-Class/obj/Debug/net5.0/String-Class.csprojAssemblyReference.cache
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/String-Class/obj/Debug/net5.0/String-Class.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/String-Class/obj/Debug/net5.0/String-Class.AssemblyInfoInputs.cache
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/String-Class/obj/Debug/net5.0/String-Class.AssemblyInfo.cs
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/String-Class/obj/Debug/net5.0/String-Class.csproj.CoreCompileInputs.cache
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/String-Class/bin/Debug/net5.0/String-Class
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/String-Class/bin/Debug/net5.0/String-Class.deps.json
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/String-Class/bin/Debug/net5.0/String-Class.runtimeconfig.json
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/String-Class/bin/Debug/net5.0/String-Class.runtimeconfig.dev.json
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/String-Class/bin/Debug/net5.0/String-Class.dll
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/String-Class/bin/Debug/net5.0/ref/String-Class.dll
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/String-Class/bin/Debug/net5.0/String-Class.pdb
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/String-Class/obj/Debug/net5.0/String-Class.dll
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/String-Class/obj/Debug/net5.0/ref/String-Class.dll
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/String-Class/obj/Debug/net5.0/String-Class.pdb
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/String-Class/obj/Debug/net5.0/String-Class.genruntimeconfig.cache
