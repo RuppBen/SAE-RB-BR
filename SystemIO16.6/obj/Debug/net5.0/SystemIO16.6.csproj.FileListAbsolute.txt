@@ -1,0 +1,16 @@
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/SystemIO16.6/bin/Debug/net5.0/SystemIO16.6
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/SystemIO16.6/bin/Debug/net5.0/SystemIO16.6.deps.json
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/SystemIO16.6/bin/Debug/net5.0/SystemIO16.6.runtimeconfig.json
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/SystemIO16.6/bin/Debug/net5.0/SystemIO16.6.runtimeconfig.dev.json
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/SystemIO16.6/bin/Debug/net5.0/SystemIO16.6.dll
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/SystemIO16.6/bin/Debug/net5.0/ref/SystemIO16.6.dll
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/SystemIO16.6/bin/Debug/net5.0/SystemIO16.6.pdb
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/SystemIO16.6/obj/Debug/net5.0/SystemIO16.6.csprojAssemblyReference.cache
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/SystemIO16.6/obj/Debug/net5.0/SystemIO16.6.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/SystemIO16.6/obj/Debug/net5.0/SystemIO16.6.AssemblyInfoInputs.cache
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/SystemIO16.6/obj/Debug/net5.0/SystemIO16.6.AssemblyInfo.cs
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/SystemIO16.6/obj/Debug/net5.0/SystemIO16.6.csproj.CoreCompileInputs.cache
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/SystemIO16.6/obj/Debug/net5.0/SystemIO16.6.dll
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/SystemIO16.6/obj/Debug/net5.0/ref/SystemIO16.6.dll
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/SystemIO16.6/obj/Debug/net5.0/SystemIO16.6.pdb
+/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/SystemIO16.6/obj/Debug/net5.0/SystemIO16.6.genruntimeconfig.cache
