@@ -30,7 +30,7 @@ namespace ConsoleApp1
                     sw.Write(zufallszahlen[i] + ",");
                 }
             }
-            sw.Close();
+            sw.Close(); // This closes the file, must be used
         }
     }
 }
