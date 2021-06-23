@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lhh+vcxdPAikhLTI4d+9zvIfme0iVhSOr/MTsP5C2yn1YRcD8CVcz9ze7Hn0DZ8aRkZ3KsOKaqvaVlmOVmH5Tw==",
+  "success": true,
+  "projectFilePath": "/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/SystemIO23.6/SystemIO23.6.csproj",
+  "expectedPackageFiles": [
+    "/home/beni/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
