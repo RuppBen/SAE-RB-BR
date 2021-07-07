@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jw1dOe+SqAGtOtmydFWCrYM4a1NrchtLx9Y3JfHVuZvf9V9yRCnvIHdmcAbzVskmxvw2QbO+frM5NZ36T3ITXQ==",
+  "success": true,
+  "projectFilePath": "/mnt/19410a79-7976-4fc8-8bce-3c4d762a06d5/Work/SAE-RB-BR/Klogang/Klogang.csproj",
+  "expectedPackageFiles": [
+    "/home/beni/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
