@@ -22,5 +22,10 @@ namespace ConsoleApp4
         {
             return Convert.ToDouble(Start) - Convert.ToDouble(Ende);
         }
+
+        public override string ToString()
+        {
+            return "Klogang von "+Start+" bis "+ Ende; 
+        }
     }
 }

@@ -10,7 +10,7 @@ namespace ConsoleApp4
     class Schulklasse
     {
         public string KlassenName { get; set; }
-        public List<Schüler> SchülerDerKlasse { get; set; } 
+        public List<Schüler> SchülerDerKlasse { get; set; }
 
         public Schulklasse(string klassenname, List<Schüler> schüler)
         {
@@ -32,13 +32,15 @@ namespace ConsoleApp4
                 SchülerDerKlasse.Add(new Schüler(names[a], names[a+1]));
             }
         }
-        
+
         public override string ToString()
         {
-            string buffer= null;
+            int index = 1;
+            string buffer= KlassenName+"\n";
             foreach (var item in SchülerDerKlasse)
             {
-                buffer += item+"\n";
+                buffer += Convert.ToString(index)+" "+item+"\n";
+                index ++;
             }
             return buffer;
         }

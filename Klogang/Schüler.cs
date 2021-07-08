@@ -19,14 +19,15 @@ namespace ConsoleApp4
             Vorname = vorname;
             TGänge = new List<TGang>();
         }
-        private void AddTGang(DateTime start, DateTime ende)
+        //spublic Schüler() {}
+        public void AddTGang(DateTime start, DateTime ende)
         {
             TGänge.Add(new TGang(start, ende));
         }
 
         public override string ToString()
         {
-            return Name + Vorname;
+            return Name +" "+Vorname;
         }
     }
 }
